@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(57,48,139,1) 100%); 
+}
+
+img {
+    width: 75%;
+}
+
+nav a{
+    font-size: medium;
+    color: white;
+}
+
+nav {
+    height: 20px;
+}
+
+nav:hover {
+    height: 50px;
+}
+
+nav a:hover {
+    font-size: xx-large;
+    color: teal;
+}
+
+hr {
+    color: white;
+    background-color: white;
+    border-color: white;
+}
